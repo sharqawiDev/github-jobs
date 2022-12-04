@@ -4,6 +4,7 @@ import JobDetails from "./modules/job-details";
 import JobsList from "./modules/jobs-list";
 import NoResults from "./modules/no-results";
 import "./App.scss";
+import "./assets/scss/main.scss";
 function Layout() {
     return (
         <div className="layout">
