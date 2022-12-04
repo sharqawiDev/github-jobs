@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "poppins";
+    src: url("./assets/fonts/Poppins/Poppins-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "poppins";
+    src: url("./assets/fonts/Poppins/Poppins-ExtraLight.ttf") format("truetype");
+    font-weight: lighter;
+    font-style: normal;
+}
+@font-face {
+    font-family: "poppins";
+    src: url("./assets/fonts/Poppins/Poppins-Bold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+}
+
+* {
+    font-family: "poppins", "Calibri", "Trebuchet MS", "sans-serif";
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
